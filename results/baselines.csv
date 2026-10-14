@@ -1,0 +1,11 @@
+mode,seed,ambulance_s,stopped_vehicle_s
+fixed,1,260.0,244
+fixed,2,262.0,235
+fixed,3,267.0,193
+fixed,4,261.0,222
+fixed,5,265.0,179
+greenwave,1,269.0,272
+greenwave,2,265.0,234
+greenwave,3,270.0,188
+greenwave,4,258.0,199
+greenwave,5,265.0,156
