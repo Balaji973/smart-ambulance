@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2026-10-14T13:30:44.815074+05:30 by Eclipse SUMO libsumo 1.28.0
+<!-- generated on 2026-10-14T13:33:02.898318+05:30 by Eclipse SUMO libsumo 1.28.0
 <libsumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/libsumoConfiguration.xsd">
 
     <input>
@@ -44,13 +44,13 @@
 -->
 
 <statistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/statistic_file.xsd">
-    <performance clockBegin="668708.90" clockEnd="668709.50" clockDuration="0.60" traciDuration="0.00" realTimeFactor="868.11" vehicleUpdatesPerSecond="69263.77" personUpdatesPerSecond="0.00" begin="0.00" end="520.00" duration="520.00"/>
-    <vehicles loaded="446" inserted="366" running="82" waiting="5"/>
+    <performance clockBegin="668846.98" clockEnd="668847.68" clockDuration="0.70" traciDuration="0.00" realTimeFactor="771.75" vehicleUpdatesPerSecond="60375.18" personUpdatesPerSecond="0.00" begin="0.00" end="541.00" duration="541.00"/>
+    <vehicles loaded="446" inserted="385" running="86" waiting="1"/>
     <teleports total="0" jam="0" yield="0" wrongLane="0"/>
     <safety collisions="0" emergencyStops="0" emergencyBraking="0"/>
     <persons loaded="0" running="0" jammed="0"/>
     <personTeleports total="0" abortWait="0" wrongDest="0"/>
-    <vehicleTripStatistics count="284" routeLength="1141.04" speed="9.71" duration="127.27" waitingTime="22.45" timeLoss="62.62" departDelay="4.08" departDelayWaiting="-1.00" totalTravelTime="36144.00" totalDepartDelay="1158.63"/>
+    <vehicleTripStatistics count="299" routeLength="1143.47" speed="9.90" duration="124.10" waitingTime="19.66" timeLoss="59.53" departDelay="4.13" departDelayWaiting="-1.00" totalTravelTime="37106.00" totalDepartDelay="1234.54"/>
     <pedestrianStatistics number="0" routeLength="0.00" duration="0.00" timeLoss="0.00"/>
     <rideStatistics number="0"/>
     <transportStatistics number="0"/>
