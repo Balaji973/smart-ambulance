@@ -1,2 +1,10 @@
 venv/
 __pycache__/
+sim*/tripinfos.xml
+sim*/edgeData.xml
+sim*/stats.xml
+*.pyc
+sim*/tripinfos.xml
+sim*/edgeData.xml
+sim*/stats.xml
+*.pyc
